@@ -1,0 +1,19 @@
+# Azure DevOps Integration
+azure-devops
+requests
+msrest
+
+# Azure AI Foundry
+azure-ai-inference
+azure-core
+azure-identity
+
+# Environment Variable Management
+python-dotenv
+
+# Plant UML
+plantuml
+six
+
+# Pydantic
+pydantic
